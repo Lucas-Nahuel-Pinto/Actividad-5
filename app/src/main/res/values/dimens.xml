@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="patita_margintop">12dp</dimen>
+    <dimen name="title_size">18dp</dimen>
+    <dimen name="title_marginleft">100dp</dimen>
+    <dimen name="photo_size">300dp</dimen>
+    <dimen name="hueso1_size">25dp</dimen>
+    <dimen name="desc_marginleft">5dp</dimen>
+    <dimen name="card_width">300dp</dimen>
+    <dimen name="desc_with">35dp</dimen>
+    <dimen name="text_size">16dp</dimen>
+    <dimen name="like_marginleft">200dp</dimen>
+    <dimen name="margin_left_text">20dp</dimen>
+    <dimen name="contacto_size">22dp</dimen>
+    <dimen name="mensaje_contacto">200dp</dimen>
+    <dimen name="perfil_fragment">180dp</dimen>
+</resources>

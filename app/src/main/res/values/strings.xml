@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="menu_about">Acerca de...</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca de</string>
+    <string name="acercade_company">Lucas 2020</string>
+    <string name="acercade_derechos">Copyright</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contacto_ref">Contactenos</string>
+    <string name="hint_name">INGRESE SU NOMBRE</string>
+    <string name="hint_correo">INGRESE SU E-MAIL</string>
+    <string name="hint_mensaje">MENSAJE</string>
+    <string name="hint_send">Enviar</string>
+    <string name="nombre_perfil">Juanjo</string>
+</resources>

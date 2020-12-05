@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_Mascotas"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+    card_view:cardCornerRadius="@dimen/corner_radius_cardview"
+    android:clickable="false"
+    >
+    
+    <LinearLayout
+        android:layout_width="125dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:background="@drawable/borde"
+        >
+    
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:id="@+id/imgFoto"
+            android:src="@drawable/puppy1"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/desc_with"
+            android:orientation="horizontal"
+            android:background="@drawable/borde"
+            android:gravity="center"
+            >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvLikes"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold"
+                    android:text="5"
+                    />
+
+                <ImageView
+                    android:id="@+id/imgHueso2"
+                    android:layout_width="@dimen/hueso1_size"
+                    android:layout_height="@dimen/hueso1_size"
+                    android:layout_gravity="right|center_vertical"
+                    android:src="@drawable/hueso2"
+                    />
+            </LinearLayout>
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
